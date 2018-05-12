@@ -1,0 +1,29 @@
+_repo: Species-Plantarum-Sections-XI-XIII_31010
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Linné, Carl von
+    alias: Linnaeus, Carolus
+    birthdate: 1707
+    deathdate: 1778
+    gutenberg_agent_id: '9516'
+    url: http://www.gutenberg.org/2009/agents/9516
+    wikipedia: http://en.wikipedia.org/wiki/Carolus_Linnaeus
+description: ''
+gutenberg_issued: '2010-01-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31010'
+language: la
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Plants -- Classification -- Early works to 1800'
+- !lcc 'QK'
+- !lcsh 'Plants -- Early works to 1800'
+title: Species Plantarum, Sections XI-XIII
+url: http://www.gutenberg.org/ebooks/31010
